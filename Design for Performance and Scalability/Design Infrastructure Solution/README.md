@@ -1,6 +1,6 @@
 ## Design Infrastructure Solution
 
-### Diagram 1
+### [Diagram 1](https://github.com/herrera-luis/cloud_architect_resources/blob/master/Design%20for%20Performance%20and%20Scalability/Design%20Infrastructure%20Solution/Design%20for%20Performance%20and%20Scalability%20-%20Diagram%201.pdf)
 
 The infrastructure includes:
 
@@ -22,7 +22,7 @@ All services in the diagram include a label to indicate the type of service and 
 Visible lines represent all network connections
 
 
-### Diagram 2
+### [Diagram 2](https://github.com/herrera-luis/cloud_architect_resources/blob/master/Design%20for%20Performance%20and%20Scalability/Design%20Infrastructure%20Solution/Design%20for%20Serverless%20-%20Diagram%202.pdf)
 
 The infrastructure includes:
 
