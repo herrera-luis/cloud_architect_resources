@@ -8,9 +8,9 @@ Amazon Route 53 Service,,,,$368
 ,Hosted Zones:,Global,,$2
 ,Resolver:,Global,,$366
 Amazon CloudFront Service,,,,$1288.22
-,Custom SSL Certificates:,,Global,$1200
+,Custom SSL Certificates:,Global,,$1200
 ,Data Transfer Out:,Global,,$87.04
-,Data Transfer Out to Origin:,,Global,$0.02
+,Data Transfer Out to Origin:,Global,,$0.02
 ,Requests:,Global,,$1.16
 Amazon RDS Service (US East (N. Virginia)),,,,$2285.78
 ,DB instances:,US East (N. Virginia),,$2002.76
