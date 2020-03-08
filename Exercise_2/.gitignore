@@ -1,0 +1,6 @@
+.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+tfdev_plan
+tfprod_plan
