@@ -18,4 +18,4 @@ The monthly cost is between $8,000-10,000 using the AWS Simple Monthly Calculato
 * A rationale is provided to explain which services were changed or removed
 
 
-**NOTE: Tool used to estimate costs: [Simple montly calculator](https://calculator.s3.amazonaws.com/index.html)**
+**NOTE: Tool used to estimate costs: [Simple monthly calculator](https://calculator.s3.amazonaws.com/index.html)**
