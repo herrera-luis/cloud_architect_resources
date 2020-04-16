@@ -12,7 +12,7 @@
 * A group named `Reviewers` has been created and has the Billing privilege.
 * A user named `CloudTrail` is created and assigned to the CloudTrailAdmins group.
 * A user named `Accountant` is created and assigned to the Reviewers group.
-Both users have AWS Console access
+[Both users have AWS Console access](https://github.com/herrera-luis/cloud_architect_resources/blob/master/Design%20for%20Performance%20and%20Scalability/Configure%20AWS%20Monitoring%20and%20Billing/UserAndGroups.png) 
 
 
 ### [Update AWS password policy](https://github.com/herrera-luis/cloud_architect_resources/blob/master/Design%20for%20Performance%20and%20Scalability/Configure%20AWS%20Monitoring%20and%20Billing/password%20policy.png) 
